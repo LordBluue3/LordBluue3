@@ -1,6 +1,6 @@
 # <>Olá Mundo 👋 Me chamo Mikael Oliveira </>
 
-**Curso Ánalise e Desenvolvimento de Sistemas e tenho conhecimento em Java, mysql, PHP, Html, Css, JavaScript e React. **
+**Curso Ánalise e Desenvolvimento de Sistemas e tenho conhecimento em Java, mysql, PHP, Html, Css, JavaScript e React.**
 
 **Contato**
 
