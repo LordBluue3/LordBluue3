@@ -11,6 +11,7 @@
 
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <a href="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos10&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api?username=felipesantos10&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="felipesantos10"/></a>
+</p> 
