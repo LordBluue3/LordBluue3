@@ -4,8 +4,7 @@
 
 **Contato**
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.youtube.com/channel/UCuvbYNJ9mrw5F7-df7QOVpQ)
-<a href="http://katsu.rf.gd/?i=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/Rs4cwCbvnS" height="30" width="40" /></a>
+  Discord: LordBluue3#5170
 
 
 <p align = "center">
