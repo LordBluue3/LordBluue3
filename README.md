@@ -2,9 +2,9 @@
 
 **Curso Ánalise e Desenvolvimento de Sistemas e tenho conhecimento em Java, mysql, PHP, Html, Css, JavaScript, Ajax e React.**
 
-**Contato**
+### 🌎  Onde me encontrar:
 
-  Discord: LordBluue3#5170
+Discord:  **LordBluue3#5170**
 
 
 <p align = "center">
