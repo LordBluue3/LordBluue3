@@ -13,7 +13,7 @@
 ### 🌎  Onde me encontrar:
 
 <p align="left">  
-<a href="https://discord.gg/LordBluue3#5170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="LordBluue3#5170" height="30" width="40" /></a>  
+https://discord.gg/Rs4cwCbvnS **LordBluue3#5170**
 </p>  
 
 
