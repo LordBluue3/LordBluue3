@@ -13,7 +13,7 @@
 ### 🌎  Onde me encontrar:
 
 <p align="left">  
-![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](http://katsu.rf.gd/?i=1) **LordBluue3#5170**
+<a href="http://katsu.rf.gd/?i=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/Rs4cwCbvnS" height="30" width="40" /></a>
 </p>  
 
 
