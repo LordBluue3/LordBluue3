@@ -3,7 +3,7 @@
 
 ### 👨‍💻  Sobre mim
 
--   🎓  Cursando  **Análise Desenvolvimento de Sistemas** .
+-   🎓  Cursando  **Análise e Desenvolvimento de Sistemas** .
 -   😼  Focado em aprender novas coisas.
 -   💻  Melhorando minhas habilidades em  **Java**.
 
@@ -16,6 +16,7 @@
 <a href="http://katsu.rf.gd/?i=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/Rs4cwCbvnS" height="30" width="40" /> LordBluue3#5170
 </p>
 
+ ## Estatistícas・🧙‍♂️
 
 <p align = "center">
   <a href="https://github.com/LordBluue3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordBluue3&layout=compact&theme=dark"/></a> 
