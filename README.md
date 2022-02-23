@@ -3,7 +3,7 @@
 
 
 ### 👨‍💻  Sobre mim
--   🎓  Cursando  **Análise e Desenvolvimento de Sistemas** .
+-   🎓  Formado  **Análise e Desenvolvimento de Sistemas** .
 -   😼  Focado em aprender novas coisas.
 -   💻  Melhorando minhas habilidades em  **Java**.
 
