@@ -34,7 +34,7 @@
 ## Estatistícas・🧙‍♂️
 
 <div align="center">
-  <a href="https://github.com/LordBluue3"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordBluue3&hide_title=true&layout=compact&theme=github_dark&locale=pt-br&hide_border=false"/></a> 
-  <a href="https://github.com/LordBluue3"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordBluue3&hide_title=true&show_icons=true&theme=github_dark&locale=pt-br&hide_border=false&include_all_commits=true&count_private=true" alt="LordBluue3"/>
+  <a href="https://github.com/LordBluue3"><img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordBluue3&hide_title=true&layout=compact&theme=github_dark&locale=pt-br&hide_border=false"/></a> 
+  <a href="https://github.com/LordBluue3"><img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LordBluue3&hide_title=true&show_icons=true&theme=github_dark&locale=pt-br&hide_border=false&include_all_commits=true&count_private=true" alt="LordBluue3"/>
   <div>
 </p> 
