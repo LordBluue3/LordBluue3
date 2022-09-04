@@ -6,7 +6,7 @@
 -   🎓  Formado  **Análise e Desenvolvimento de Sistemas**.
 -   🎓  Cursando  **Ciência da Computação**.
 -   😼  Focado em aprender novas coisas.
--   💻  Melhorando minhas habilidades em  **Java**.
+-   💻  Desenvolvedor web na empresa **Evoi Publicidade**.
 
 ### 📌  Minhas Skills
 
