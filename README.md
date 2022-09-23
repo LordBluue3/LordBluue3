@@ -1,5 +1,5 @@
 # <>Olá Mundo 👋 Me chamo Mikael Oliveira </>
-<img src="https://cdn.discordapp.com/attachments/701489669673844887/996587028940595300/cedddf8c-d29a-4697-ae9f-437e9ba3356d.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
+<img src="https://cdn.discordapp.com/attachments/701489669673844887/1022665871107293184/Logo_Minimalista_Lord_F_T.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 
 ### 👨‍💻  Sobre mim
