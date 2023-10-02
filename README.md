@@ -1,14 +1,14 @@
-# <>Olá Mundo 👋 Me chamo Mikael Oliveira </>
+# <>Hello World👋  I'm Mikael Oliveira </>
 <img src="https://cdn.discordapp.com/attachments/701489669673844887/1022665871107293184/Logo_Minimalista_Lord_F_T.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 
-### 👨‍💻  Sobre mim
--   🎓  Formado em  **Análise e Desenvolvimento de Sistemas**.
--   🎓  Cursando  **Ciência da Computação**.
--   😼  Focado em aprender novas coisas.
--   💻  Desenvolvedor web na empresa **Evoi Publicidade**.
+### 👨‍💻  About Me
+-   🎓  Graduated in **Analysis and Systems Development**.
+-   🎓  Currently Studying  **Computer Science**.
+-   😼  Focused on learn new things.
+-   💻  I'm a Web Developer at **Evoi Publicidade**.
 
-### 📌  Minhas Skills
+### 📌  My Skills
 
 ![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +21,7 @@
 
 
 
-### 🌎  Onde me encontrar:
+### 🌎  Where to find me:
 
 
 [discord-invite]:https://discord.com/users/295038299133837313
@@ -32,7 +32,7 @@
 [ ![linkedin-shield][] ][linkedin-invite]
 
  
-## Estatistícas・🧙‍♂️
+## Statistics・🧙‍♂️
 
 <p align = "center">
   <a href="https://github.com/LordBluue3"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordBluue3&layout=compact&hide_title=false&theme=github_dark"/></a> 
