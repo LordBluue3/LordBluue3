@@ -6,7 +6,7 @@
 -   🎓  Graduated in **Analysis and Systems Development**.
 -   🎓  Currently Studying  **Computer Science**.
 -   😼  Focused on learn new things.
--   💻  I'm a Web Developer at **Evoi Publicidade**.
+-   💻  I'm a web developer at **Evoi Publicidade**.
 
 ### 📌  My Skills
 
