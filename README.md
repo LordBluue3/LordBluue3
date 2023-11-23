@@ -1,6 +1,5 @@
 # <>Hello World👋  I'm Mikael Oliveira </>
-<img src="https://cdn.discordapp.com/attachments/701489669673844887/1022665871107293184/Logo_Minimalista_Lord_F_T.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
-
+<img src="https://github.com/LordBluue3/LordBluue3/assets/58037508/1dd0e99b-17d9-404c-92a0-ebac4b0946d0" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 ### 👨‍💻  About Me
 -   🎓  Graduated in **Analysis and Systems Development**.
