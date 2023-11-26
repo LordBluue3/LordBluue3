@@ -4,7 +4,8 @@
 ### 👨‍💻  About Me
 -   🎓  Graduated in **Analysis and Systems Development**.
 -   🎓  Currently Studying  **Computer Science**.
--   😼  Focused on learn new things.
+-   😼  Focused on learn Laravel and your ecosystem.
+-   🐘 Elephants only gave me opportunities.
 -   💻  I'm a back-end developer at **Noweb Publicidade**.
 
 ### 📌  My Skills
