@@ -2,11 +2,13 @@
 <img src="https://github.com/LordBluue3/LordBluue3/assets/58037508/1dd0e99b-17d9-404c-92a0-ebac4b0946d0" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 ### 👨‍💻  About Me
--   🎓  Graduated in **Analysis and Systems Development**.
--   🎓  Currently Studying  **Computer Science**.
--   😼  Focused on learn Laravel and your ecosystem.
--   🐘 Elephants only gave me opportunities.
--   💻  I'm a back-end developer at **Noweb Publicidade**.
+- 🎓 Bachelor's degree in [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (in progress)  
+- 🎓 Technical degree in [**Systems Development**](https://en.wikipedia.org/wiki/Software_development)
+- 😼 Focused on mastering [**Laravel**](https://laravel.com) and its ecosystem.
+- 🐘 Elephants only gave me opportunities.  
+- 💻 I'm a back-end developer at [**Noweb Publicidade**](https://noweb.io).  
+- 🛠️ Contributing to the development of [**Cage**](https://app.usecage.com) and [**TGarante**](https://tgarante.com.br).
+
 
 ### 📌  My Skills
 [![PHP](https://img.shields.io/badge/PHP-7175aa?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
