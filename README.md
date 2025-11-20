@@ -1,5 +1,5 @@
 # <>Hello World👋  I'm Mikael Oliveira </>
-<img src="https://github.com/LordBluue3/LordBluue3/assets/58037508/1dd0e99b-17d9-404c-92a0-ebac4b0946d0" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
+<img src="https://github.com/user-attachments/assets/1a7248fe-b6fc-4cbe-acfd-6186412485f0" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 ### 👨‍💻  About Me
 - 🎓 Bachelor's degree in [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (in progress)  
@@ -13,17 +13,17 @@
 ### 📌  My Skills
 [![PHP](https://img.shields.io/badge/PHP-7175aa?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs)
+[![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)](https://codeigniter.com/user_guide/index.html)
 [![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com/docs)
-[![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/community)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/community)
 [![Tailwindcss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
-[![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)](https://codeigniter.com/user_guide/index.html)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+
 <br>
 
 
