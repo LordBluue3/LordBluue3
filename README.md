@@ -6,8 +6,8 @@
 - 🎓 Technical degree in [**Systems Development**](https://en.wikipedia.org/wiki/Software_development)
 - 😼 Focused on mastering [**Laravel**](https://laravel.com) and its ecosystem.
 - 🐘 Elephants only gave me opportunities.  
-- 💻 I'm a back-end developer at [**Noweb**](https://noweb.io).  
-- 🛠️ Contributing to the development of [**Cage**](https://app.usecage.com) and [**TGarante**](https://tgarante.com.br).
+- 💻 I'm a full-stack developer at [**UXGroup**](https://ux.group).  
+- 🛠️ I contribuied to the development of [**Cage**](https://app.usecage.com) and [**TGarante**](https://tgarante.com.br).
 
 
 ### 📌  My Skills
