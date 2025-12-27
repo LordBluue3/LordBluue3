@@ -1,5 +1,5 @@
 # <>Hello World👋  I'm Mikael Oliveira </>
-<img src="https://github.com/user-attachments/assets/1a7248fe-b6fc-4cbe-acfd-6186412485f0" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
+
 
 ### 👨‍💻  About Me
 - 🎓 Bachelor's degree in [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (in progress)  
