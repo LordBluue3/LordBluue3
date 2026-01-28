@@ -1,10 +1,10 @@
-# <>Hello World👋  I'm Mikael Oliveira </>
+# Hi, I'm Mikael Oliveira
 
 
 ### 👨‍💻  About Me
 - 🎓 Bachelor's degree in [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (in progress)  
 - 🎓 Technical degree in [**Systems Development**](https://en.wikipedia.org/wiki/Software_development)
-- 😼 Focused on mastering [**Laravel**](https://laravel.com) and its ecosystem.
+- 😼 Focused on mastering [**Swoole**](https://openswoole.com/).
 - 🐘 Elephants only gave me opportunities.  
 - 💻 I'm a full-stack developer at [**UXGroup**](https://ux.group).  
 - 🛠️ I contribuied to the development of [**Cage**](https://app.usecage.com) and [**TGarante**](https://tgarante.com.br).
