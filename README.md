@@ -4,8 +4,8 @@
 ### 👨‍💻  About Me
 - 🎓 Bachelor's degree in [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (in progress)  
 - 🎓 Technical degree in [**Systems Development**](https://en.wikipedia.org/wiki/Software_development)
-- 😼 Focused on mastering [**Swoole**](https://openswoole.com/).
-- 🐘 Elephants only gave me opportunities.  
+- 😼 Focused on mastering [**HyperF**](https://hyperf.io) and [**Swoole**](https://openswoole.com/).
+- 🐘 ElePHPants only gave me opportunities.  
 - 💻 I'm a full-stack developer at [**UXGroup**](https://ux.group).  
 - 🛠️ I contribuied to the development of [**Cage**](https://app.usecage.com) and [**TGarante**](https://tgarante.com.br).
 
@@ -17,18 +17,17 @@
 [![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com/docs)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+<br>
 [![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/community)
 [![Tailwindcss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs)
 [![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Hyperf](https://img.shields.io/badge/hyperf-000000?style=for-the-badge&logo=php&logoColor=white)](https://hyperf.io)
+
 
 <br>
-
-
-
-
 
 ### 🌎  Where to find me:
 
@@ -41,10 +40,3 @@
 [ ![linkedin-shield][] ][linkedin-invite]
 
  
-## Statistics・🧙‍♂️
-
-<p align = "center">
-  <a href="https://github.com/LordBluue3"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordBluue3&layout=compact&hide_title=false&theme=github_dark"/></a> 
-  <a href="https://github.com/LordBluue3"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordBluue3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="LordBluue3"/></a>
-</p> 
-
