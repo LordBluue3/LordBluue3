@@ -5,9 +5,9 @@
 - 🎓 Bachelor's degree in [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (in progress)  
 - 🎓 Technical degree in [**Systems Development**](https://en.wikipedia.org/wiki/Software_development)
 - 😼 Focused on mastering [**HyperF**](https://hyperf.io) and [**Swoole**](https://openswoole.com/).
-- 🐘 ElePHPants only gave me opportunities.  
 - 💻 I'm a full-stack developer at [**UXGroup**](https://ux.group).  
-- 🛠️ I contribuied to the development of [**Cage**](https://app.usecage.com) and [**TGarante**](https://tgarante.com.br).
+- 🛠️ I contribuied to the development of [**Cage**](https://app.usecage.com).
+- 🐘 ElePHPants only gave me opportunities.  
 
 
 ### 📌  My Skills
